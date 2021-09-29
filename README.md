@@ -35,4 +35,6 @@ Ray Crist '22
 
 ## Acknowledgments
 
-TODO: cite any tutorials followed here
+[Video Texture needed component](https://github.com/aframevr/aframe/blob/master/examples/js/play-on-click.js)
+[AFrame Basic Scene tutorial](https://aframe.io/docs/1.2.0/guides/building-a-basic-scene.html)
+
