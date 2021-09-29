@@ -6,7 +6,7 @@ A WebVR experience. Some random objects, an orb that grows when you hover over i
 
 I attempted to use the [AFrame framework](https://aframe.io/) to build a 3d Web experience, usable on both VR headsets, mobile, and desktop.
 
-![Demo](https://user-images.githubusercontent.com/75859468/135273573-853abe45-18f3-43a0-a00e-24ec18fba149.mov)
+https://user-images.githubusercontent.com/75859468/135273573-853abe45-18f3-43a0-a00e-24ec18fba149.mov
 
 ## Who Did What?
 
